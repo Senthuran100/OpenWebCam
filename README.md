@@ -1,2 +1,2 @@
-Accessing the Web Camera using python
+Accessing the Web Camera using python.
 To exit the application press "Esc"
